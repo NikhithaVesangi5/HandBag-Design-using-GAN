@@ -1,6 +1,19 @@
-# HandBag-Design-using-GAN
+# HandBag Design using GAN
 
-# DataSet
+
+Designed a GAN model to generate unique handbag images by training on real data, enhancing creativity in fashion design.
+
+## Background
+
+The fashion industry is driven by innovation, uniqueness, and consumer preference. As trends evolve rapidly, there's a growing need for automated systems that can generate creative and novel designs. Traditional design processes are often time-consuming and rely heavily on human input. Recent advancements in deep learning, particularly Generative Adversarial Networks (GANs), have opened new possibilities in generative design tasks.
+
+GANs, introduced by Ian Goodfellow in 2014, consist of two neural networks—the generator and the discriminator—that compete in an adversarial setting. The generator aims to produce data that mimics real samples, while the discriminator attempts to distinguish real from fake inputs. Through this competition, the generator improves its output, producing increasingly realistic and high-quality data.
+
+In this project, GANs are applied to generate new handbag designs. By learning from a dataset of existing handbag images, the model produces unique outputs that maintain the structure and style of real fashion items—demonstrating the power of AI in creative fields.
+
+
+## Dataset
+The dataset for training set of HandBag images can be obtained from
 
 https://www.kaggle.com/datasets/bashturtle/shirtshandbags
 
